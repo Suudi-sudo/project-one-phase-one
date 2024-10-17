@@ -1,0 +1,91 @@
+{
+    "moods": [
+      {
+        "id": "1",
+        "mood": "happy"
+      },
+      {
+        "id": "2",
+        "mood": "sad"
+      },
+      {
+        "id": "3",
+        "mood": "neutral"
+      },
+      {
+        "id": "4",
+        "mood": "sad"
+      },
+      {
+        "id": "6",
+        "mood": "Angry"
+      },
+      {
+        "id": "7",
+        "mood": "neutral"
+      },
+      {
+        "id": "922b"
+      }
+    ],
+    "journalEntries": [
+      {
+        "id": "1",
+        "date": "2024-10-07",
+        "moodId": "mood_1",
+        "energyLevel": 8,
+        "activity": "Went for a morning jog",
+        "weather": "Sunny",
+        "journalEntry": "Felt great after the jog! I’m ready to tackle the day."
+      },
+      {
+        "id": "2",
+        "date": "2024-10-08",
+        "moodId": "mood_3",
+        "energyLevel": 5,
+        "activity": "Worked on a project",
+        "weather": "Cloudy",
+        "journalEntry": "Feeling a bit anxious about deadlines, but I'm managing."
+      },
+      {
+        "id": "entry_4",
+        "date": "2024-10-10",
+        "moodId": "mood_2",
+        "energyLevel": 3,
+        "activity": "Had a rough day at work",
+        "weather": "Overcast",
+        "journalEntry": "Struggled with tasks today, feeling a bit down."
+      },
+      {
+        "id": "entry_5",
+        "date": "2024-10-11",
+        "moodId": "mood_5",
+        "energyLevel": 4,
+        "activity": "Relaxed at home",
+        "weather": "Clear",
+        "journalEntry": "Spent the day unwinding and enjoying my favorite shows."
+      },
+      {
+        "id": "entry_6",
+        "date": "2024-10-12",
+        "moodId": "mood_6",
+        "energyLevel": 4,
+        "activity": "Faced some challenges at work",
+        "weather": "Windy",
+        "journalEntry": "Frustrated with the lack of progress on my tasks."
+      },
+      {
+        "id": "entry_7",
+        "date": "2024-10-13",
+        "moodId": "mood_7",
+        "energyLevel": 7,
+        "activity": "Relaxed at home",
+        "weather": "Sunny",
+        "journalEntry": "Spent the day unwinding and enjoying my favorite shows."
+      },
+      {
+        "id": "9084"
+      }
+    ]
+  }
+
