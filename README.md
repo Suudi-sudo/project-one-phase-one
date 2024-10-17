@@ -2,6 +2,8 @@
 ## By Suudi Abdisalan
 ## Live server
 You can view the web live on mood tracker and journal
+github: https://suudi-sudo.github.io/project-one-phase-one/
+render: https://project-one-phase-one.onrender.com
 
 ## Known Bugs
 The application works perfectly well, no bugs.
