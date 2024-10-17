@@ -1,5 +1,5 @@
 	
-fetch('http://localhost:3000/moods')
+fetch('https://project-one-phase-one.onrender.com/moods')
 .then((response) => response.json())
 .then((json) => console.log(json));
 
@@ -42,7 +42,7 @@ moodList.appendChild(li);
 document.getElementById('moodForm').reset();
 });
 
-fetch('http://localhost:3000/journalEntries')
+fetch('https://project-one-phase-one.onrender.com/journalEntries')
 .then((response) => response.json())
 .then((json) => console.log(json));
 
